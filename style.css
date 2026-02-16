@@ -1,0 +1,15 @@
+
+button{
+    color:darkorange;
+    background-color: rgb(255,0,255);
+}
+p{color:brown;
+    text-align: center;
+    text-shadow: olive;
+    font-style: oblique;
+    font-style: var(rgb);
+    font-size: 1px;
+    font-family: bolder;
+    text-decoration-thickness: initial;
+    background-color: burlywood;
+}
